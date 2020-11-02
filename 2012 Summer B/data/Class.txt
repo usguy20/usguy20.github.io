@@ -1,0 +1,1 @@
+instructor=Guillermo+Matranca&class=General+Physics+Lab+II&section=PHY2049L&times=Tue+Thu+2:00pm+and+5:20pm&xmlfile=TT200520.XML
